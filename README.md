@@ -1,6 +1,6 @@
 # Literature-list-of-Recommender-Systems01
 近几年有关大语言模型推荐系统、会话推荐系统以及公平性相关的文献
-# Conversation Recommender会话推荐系统
+# Conversation Recommender  会话推荐系统
 - Unified conversational recommendation policy learning via graph-based reinforcement learning [SIGIR 2021] [(PDF)](https://arxiv.org/pdf/2105.09710.pdf)
 - Learning to ask appropriate questions in conversational recommendation [SIGIR 2021] [(PDF)](https://arxiv.org/pdf/2105.04774.pdf)
 - Improving conversational recommender systems via transformer-based sequential modelling [SIGIR 2022] [(PDF)](https://personal.ntu.edu.sg/c.long/paper/22-SIGIR-conversation.pdf)
@@ -25,9 +25,27 @@
 - Curriculum contrastive context denoising for few-shot conversational dense retrieval [SIGIR 2022] [(PDF)](https://qhjqhj00.github.io/files/22curriculum.pdf)
 - Weighted Knowledge Graph Embedding [SIGIR 2023] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3539618.3591784)
 - 
-- 
-- 
-- 
+- 推荐系统的公平性问题
+- Explainable fairness in recommendation [SIGIR 2022] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3477495.3531973)
+- Tfrom: A two-sided fairness-aware recommendation model for both customers and providers [SIGIR 2021] [(PDF)](https://arxiv.org/pdf/2104.09024)
+- Selective fairness in recommendation via prompts [SIGIR 2022] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3477495.3531913)
+- Joint multisided exposure fairness for recommendation [SIGIR 2022] [(PDF)](https://arxiv.org/pdf/2205.00048)
+- Tutorial on fairness of machine learning in recommender systems [SIGIR 2021] [(PDF)](https://fairness-tutorial.github.io/files/Tutorial_on_Fairness_in_Recommendation.pdf)
+- Profairrec: Provider fairness-aware news recommendation [SIFIR 2022] [(PDF)](https://arxiv.org/pdf/2204.04724)
+- Towards personalized fairness based on causal notion [SIGIR 2021] [(PDF)](http://www.yongfeng.me/attach/li-sigir2021.pdf)
+- Cpfair: Personalized consumer and producer fairness re-ranking for recommender systems [SIGIR 2021] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3477495.3531959)
+- Fairness among new items in cold start recommender systems [SIGIR 2021] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3404835.3462948)
+- Experiments on generalizability of user-oriented fairness in recommender systems [SIGIR 2022] [(PDF)](https://arxiv.org/pdf/2205.08289)
+- Measuring fairness in ranked results: An analytical and empirical comparison [SIGIR 2022] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3477495.3532018)
+- Improving Fairness and Transparency for Artists in Music Recommender Systems [SIGIR 2022] [(PDF)](https://scholar.archive.org/work/udmhhktknbcqpaglwz47udqhp4/access/wayback/https://dl.acm.org/doi/pdf/10.1145/3477495.3531681)
+- Challenges and research opportunities in ecommerce search and recommendations [SIGIR 2021] [(PDF)] (https://assets.amazon.science/23/86/ca2f1a034fa084d524962af2fdaa/challenges-and-research-opportunities-in-ecommerce-search-and-recommendations.pdf)
+- Rectifying unfairness in recommendation feedback loop [SIGIR 2023] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3539618.3591754)
+- Gender fairness in information retrieval systems [SIGIR 2022] [(PDF)](https://scholar.archive.org/work/sfqlxajguvgtpmn6yiwo2teema/access/wayback/https://dl.acm.org/doi/pdf/10.1145/3477495.3532680)
+- Retrieval and Recommendation Systems at the Crossroads of Artificial Intelligence, Ethics, and Regulation [SIGIR 2022] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3477495.3532683)
+-  User-controllable recommendation against filter bubbles [SIGIR 2022] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3477495.3532075)
+-  Measuring Item Global Residual Value for Fair Recommendation [SIGIR 2023] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3539618.3591724)
+-  Neutralizing popularity bias in recommendation models [SIGIR 2022] [(PDF)](Neutralizing popularity bias in recommendation models)
+-  
 - 
 - 
 - 
