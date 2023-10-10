@@ -38,7 +38,7 @@
 - Experiments on generalizability of user-oriented fairness in recommender systems [SIGIR 2022] [(PDF)](https://arxiv.org/pdf/2205.08289)
 - Measuring fairness in ranked results: An analytical and empirical comparison [SIGIR 2022] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3477495.3532018)
 - Improving Fairness and Transparency for Artists in Music Recommender Systems [SIGIR 2022] [(PDF)](https://scholar.archive.org/work/udmhhktknbcqpaglwz47udqhp4/access/wayback/https://dl.acm.org/doi/pdf/10.1145/3477495.3531681)
-- Challenges and research opportunities in ecommerce search and recommendations [SIGIR 2021] [(PDF)] (https://assets.amazon.science/23/86/ca2f1a034fa084d524962af2fdaa/challenges-and-research-opportunities-in-ecommerce-search-and-recommendations.pdf)
+- Challenges and research opportunities in ecommerce search and recommendations [SIGIR 2021] [(PDF)](https://assets.amazon.science/23/86/ca2f1a034fa084d524962af2fdaa/challenges-and-research-opportunities-in-ecommerce-search-and-recommendations.pdf)
 - Rectifying unfairness in recommendation feedback loop [SIGIR 2023] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3539618.3591754)
 - Gender fairness in information retrieval systems [SIGIR 2022] [(PDF)](https://scholar.archive.org/work/sfqlxajguvgtpmn6yiwo2teema/access/wayback/https://dl.acm.org/doi/pdf/10.1145/3477495.3532680)
 - Retrieval and Recommendation Systems at the Crossroads of Artificial Intelligence, Ethics, and Regulation [SIGIR 2022] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3477495.3532683)
