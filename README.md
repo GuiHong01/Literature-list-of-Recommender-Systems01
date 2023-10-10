@@ -1,15 +1,34 @@
 # Literature-list-of-Recommender-Systems01
 近几年有关大语言模型推荐系统、会话推荐系统以及公平性相关的文献
-# Conversation Recommender
-- Unified conversational recommendation policy learning via graph-based reinforcement learning[SIGIR 2021] [(PDF)](https://arxiv.org/pdf/2105.09710.pdf)
-- Learning to ask appropriate questions in conversational recommendation[SIGIR 2021] [(PDF)](https://arxiv.org/pdf/2105.04774.pdf)
-- Improving conversational recommender systems via transformer-based sequential modelling[SIGIR 2022] [(PDF)](https://personal.ntu.edu.sg/c.long/paper/22-SIGIR-conversation.pdf)
-- Variational Reasoning about User Preferences for Conversational Recommendation[SIGIR 2022] [(PDF)](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/ren-2022-variational.pdf)
-- Hoops: Human-in-the-loop graph reasoning for conversational recommendation[SIGIR 2021] [(PDF)](https://par.nsf.gov/servlets/purl/10295248)
-- User-centric conversational recommendation with multi-aspect user modeling[SIGIR 2022] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3477495.3532074)
-- Learning to infer user implicit preference in conversational recommendation[SIGIR 2022] [(PDF)](https://scholar.archive.org/work/jwrl6j46n5ffjhwtdw6mud6re4/access/wayback/https://dl.acm.org/doi/pdf/10.1145/3477495.3531844)
-- Comparison-based conversational recommender system with relative bandit feedback[SIGIR 2021] [(PDF)](https://arxiv.org/pdf/2208.09837)
-- Analyzing and simulating user utterance reformulation in conversational recommender systems[SIGIR 2022] [(PDF)](https://arxiv.org/pdf/2205.01763)
-- MMConv: an environment for multimodal conversational search across multiple domains[SIGIR 2021] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3404835.3462970)
-- Challenges and research opportunities in ecommerce search and recommendations[SIGIR 2021] [(PDF)](https://assets.amazon.science/23/86/ca2f1a034fa084d524962af2fdaa/challenges-and-research-opportunities-in-ecommerce-search-and-recommendations.pdf)
-- On interpretation and measurement of soft attributes for recommendation[SIGIR 2021] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3404835.3462893)
+# Conversation Recommender会话推荐系统
+- Unified conversational recommendation policy learning via graph-based reinforcement learning [SIGIR 2021] [(PDF)](https://arxiv.org/pdf/2105.09710.pdf)
+- Learning to ask appropriate questions in conversational recommendation [SIGIR 2021] [(PDF)](https://arxiv.org/pdf/2105.04774.pdf)
+- Improving conversational recommender systems via transformer-based sequential modelling [SIGIR 2022] [(PDF)](https://personal.ntu.edu.sg/c.long/paper/22-SIGIR-conversation.pdf)
+- Variational Reasoning about User Preferences for Conversational Recommendation [SIGIR 2022] [(PDF)](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/ren-2022-variational.pdf)
+- Hoops: Human-in-the-loop graph reasoning for conversational recommendation [SIGIR 2021] [(PDF)](https://par.nsf.gov/servlets/purl/10295248)
+- User-centric conversational recommendation with multi-aspect user modeling [SIGIR 2022] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3477495.3532074)
+- Learning to infer user implicit preference in conversational recommendation [SIGIR 2022] [(PDF)](https://scholar.archive.org/work/jwrl6j46n5ffjhwtdw6mud6re4/access/wayback/https://dl.acm.org/doi/pdf/10.1145/3477495.3531844)
+- Comparison-based conversational recommender system with relative bandit feedback [SIGIR 2021] [(PDF)](https://arxiv.org/pdf/2208.09837)
+- Analyzing and simulating user utterance reformulation in conversational recommender systems [SIGIR 2022] [(PDF)](https://arxiv.org/pdf/2205.01763)
+- MMConv: an environment for multimodal conversational search across multiple domains [SIGIR 2021] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3404835.3462970)
+- Challenges and research opportunities in ecommerce search and recommendations [SIGIR 2021] [(PDF)](https://assets.amazon.science/23/86/ca2f1a034fa084d524962af2fdaa/challenges-and-research-opportunities-in-ecommerce-search-and-recommendations.pdf)
+- On interpretation and measurement of soft attributes for recommendation [SIGIR 2021] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3404835.3462893)
+- Towards multi-modal conversational information seeking [SIGIR 2021] [(PDF)](https://www.researchgate.net/profile/Yashar-Deldjoo/publication/350958354_Towards_Multi-Modal_Conversational_Information_Seeking/links/609fcc49299bf147699cdd63/Towards-Multi-Modal-Conversational-Information-Seeking.pdf)
+- Simulating user satisfaction for the evaluation of task-oriented dialogue systems [SIGIR 2021] [(PDF)](https://arxiv.org/pdf/2105.03748)
+- Asking clarifying questions based on negative feedback in conversational search [SIGIR 2021] [(PDF)](https://arxiv.org/pdf/2107.05760)
+- Tutorial on fairness of machine learning in recommender systems [SIGIR 2021] [(PDF)](https://fairness-tutorial.github.io/files/Tutorial_on_Fairness_in_Recommendation.pdf)
+- On Natural Language User Profiles for Transparent and Scrutable Recommendation [SIGIR 2022] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3477495.3531873)
+- Wizard of search engine: Access to information through conversations with search engines [SIGIR 2021] [(PDF)](https://arxiv.org/pdf/2105.08301)
+- Explainable fairness in recommendation [SIGIR 2022] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3477495.3531973)
+- Priming and actions: An analysis in conversational search systems [SIGIR 2023] [(PDF)](https://www.researchgate.net/profile/**ao-Fu-41/publication/370628441_Priming_and_Actions_An_Analysis_in_Conver-sational_Search_Systems/links/645a627239c408339b3798c8/Priming-and-Actions-An-Analysis-in-Conver-sational-Search-Systems.pdf)
+- Hierarchical multi-task graph recurrent network for next poi recommendation [SIGIR 2022] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3477495.3531989)
+- Curriculum contrastive context denoising for few-shot conversational dense retrieval [SIGIR 2022] [(PDF)](https://qhjqhj00.github.io/files/22curriculum.pdf)
+- Weighted Knowledge Graph Embedding [SIGIR 2023] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3539618.3591784)
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
