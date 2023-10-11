@@ -44,7 +44,7 @@
 - Retrieval and Recommendation Systems at the Crossroads of Artificial Intelligence, Ethics, and Regulation [SIGIR 2022] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3477495.3532683)
 -  User-controllable recommendation against filter bubbles [SIGIR 2022] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3477495.3532075)
 -  Measuring Item Global Residual Value for Fair Recommendation [SIGIR 2023] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3539618.3591724)
--  Neutralizing popularity bias in recommendation models [SIGIR 2022] [(PDF)](Neutralizing popularity bias in recommendation models)
+-  Neutralizing popularity bias in recommendation models [SIGIR 2022] [(PDF)](https://xmudm.github.io/files/Xv2022Neutralizing.pdf)
 -  
 - 
 - 
