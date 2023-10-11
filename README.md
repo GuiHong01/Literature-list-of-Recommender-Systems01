@@ -45,8 +45,8 @@
 -  User-controllable recommendation against filter bubbles [SIGIR 2022] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3477495.3532075)
 -  Measuring Item Global Residual Value for Fair Recommendation [SIGIR 2023] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3539618.3591724)
 -  Neutralizing popularity bias in recommendation models [SIGIR 2022] [(PDF)](https://xmudm.github.io/files/Xv2022Neutralizing.pdf)
+-  Evaluating Online Bandit Exploration In Large-ScaleRecommender System [KDD 2023] [(PDF)](https://www.researchgate.net/publication/369823674_Evaluating_Online_Bandit_Exploration_In_Large-Scale_Recommender_System)
+-  A Performance-preserving Fairness Intervention for Adaptive Microfinance Recommendation [KDD 2022] [(PDF)](https://par.nsf.gov/servlets/purl/10352999)
+-  Evaluating Online Bandit Exploration In Large-ScaleRecommender System [KDD 2023] [(PDF)](https://www.researchgate.net/publication/369823674_Evaluating_Online_Bandit_Exploration_In_Large-Scale_Recommender_System)
+-  A Performance-preserving Fairness Intervention for Adaptive Microfinance Recommendation [KDD 2022] [(PDF)](https://par.nsf.gov/servlets/purl/10352999)
 -  
-- 
-- 
-- 
-- 
