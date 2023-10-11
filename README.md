@@ -47,6 +47,5 @@
 -  Neutralizing popularity bias in recommendation models [SIGIR 2022] [(PDF)](https://xmudm.github.io/files/Xv2022Neutralizing.pdf)
 -  Evaluating Online Bandit Exploration In Large-ScaleRecommender System [KDD 2023] [(PDF)](https://www.researchgate.net/publication/369823674_Evaluating_Online_Bandit_Exploration_In_Large-Scale_Recommender_System)
 -  A Performance-preserving Fairness Intervention for Adaptive Microfinance Recommendation [KDD 2022] [(PDF)](https://par.nsf.gov/servlets/purl/10352999)
--  Evaluating Online Bandit Exploration In Large-ScaleRecommender System [KDD 2023] [(PDF)](https://www.researchgate.net/publication/369823674_Evaluating_Online_Bandit_Exploration_In_Large-Scale_Recommender_System)
--  A Performance-preserving Fairness Intervention for Adaptive Microfinance Recommendation [KDD 2022] [(PDF)](https://par.nsf.gov/servlets/purl/10352999)
--  
+
+
