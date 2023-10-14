@@ -26,6 +26,11 @@
 - Weighted Knowledge Graph Embedding [SIGIR 2023] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3539618.3591784)
 - Instructional Strategies Used In Teaching Siswati Language In The Kingdom Of Eswatini Primary Schools [WWW] [(PDF)](https://www.researchgate.net/profile/Sithulisiwe-Bhebhe/publication/368837096_Instructional_Strategies_Used_In_Teaching_Siswati_Language_In_The_Kingdom_Of_Eswatini_Primary_Schools/links/63fcacc70cf1030a5657c565/Instructional-Strategies-Used-In-Teaching-Siswati-Language-In-The-Kingdom-Of-Eswatini-Primary-Schools.pdf)
 - Using Machine Learning Classifiers and A Virtual Voice Assistant for Common Tasks, An Employee Performance Evaluation Model is Used [WWW] [(PDF)](https://www.researchgate.net/profile/Ramesh-Byali/publication/362659843_Using_Machine_Learning_Classifiers_and_A_Virtual_Voice_Assistant_for_Common_Tasks_An_Employee_Performance_Evaluation_Model_is_Used/links/62faefe1ceb9764f72fea4b3/Using-Machine-Learning-Classifiers-and-A-Virtual-Voice-Assistant-for-Common-Tasks-An-Employee-Performance-Evaluation-Model-is-Used.pdf)
+- Mixed-Modality Interaction in Conversational Recommender Systems [RecSys 2021] [(PDF)](http://ceur-ws.org/Vol-2948/paper2.pdf)
+- ConvEx-DS:_A Dataset for Conversational Explanations in Recommender SystemS [RecSys 2021] [(PDF)](https://ceur-ws.org/Vol-2948/paper1.pdf)
+- A general model for fair and explainable recommendation in the loan domain [RecSys 2021] [(PDF)](https://ceur-ws.org/Vol-2960/paper12.pdf)
+- Psychological User Characteristics and Meta-Intents in a Conversational Product Advisor [RecSys 2022] [(PDF)](https://ceur-ws.org/Vol-3222/paper2.pdf)
+- Meta-Intents in Conversational Recommender Systems [RecSys 2022] [(PDF)](https://ceur-ws.org/Vol-3294/long6.pdf)
 
 
 
