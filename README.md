@@ -31,6 +31,7 @@
 - A general model for fair and explainable recommendation in the loan domain [RecSys 2021] [(PDF)](https://ceur-ws.org/Vol-2960/paper12.pdf)
 - Psychological User Characteristics and Meta-Intents in a Conversational Product Advisor [RecSys 2022] [(PDF)](https://ceur-ws.org/Vol-3222/paper2.pdf)
 - Meta-Intents in Conversational Recommender Systems [RecSys 2022] [(PDF)](https://ceur-ws.org/Vol-3294/long6.pdf)
+- TripRec-A Recommender System for Planning Composite City Trips Based on Travel Mobility Analysis [WSDM] [(PDF)](https://ceur-ws.org/Vol-2855/main_short_2.pdf)
 
 
 
@@ -56,5 +57,12 @@
 -  Neutralizing popularity bias in recommendation models [SIGIR 2022] [(PDF)](https://xmudm.github.io/files/Xv2022Neutralizing.pdf)
 -  Evaluating Online Bandit Exploration In Large-ScaleRecommender System [KDD 2023] [(PDF)](https://www.researchgate.net/publication/369823674_Evaluating_Online_Bandit_Exploration_In_Large-Scale_Recommender_System)
 -  A Performance-preserving Fairness Intervention for Adaptive Microfinance Recommendation [KDD 2022] [(PDF)](https://par.nsf.gov/servlets/purl/10352999)
+-  Bias and Feedback Loops in Music Recommendation: Studies on Record Label Impact [RecSys 2022] [(PDF)](https://ceur-ws.org/Vol-3268/paper6.pdf)
+-  End-to-End Bias Mitigation in Candidate Recommender Systems with Fairness Gates [RecSys 2022] [(PDF)](http://star.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-3218/RecSysHR2022-paper_6.pdf)
+-  Toward Benchmarking Group Explanations: Evaluating the Effect of Aggregation Strategies versus Explanation [RecSys 2021] [(PDF)](https://ceur-ws.org/Vol-2955/paper11.pdf)
+-  Coupled or Decoupled Evaluation for Group Recommendation Methods? [RecSys 2021] [(PDF)](https://ceur-ws.org/Vol-2955/paper1.pdf)
+-  A unified optimization toolbox for solving popularity bias, fairness, anddiversity in recommender systems [RecSys 2021] [(PDF)](https://www.researchgate.net/profile/Sinan-Seymen/publication/357875041_A_unified_optimization_toolbox_for_solving_popularity_bias_fairness_and_diversity_in_recommender_systems/links/61e4ce95c5e31033759d91f2/A-unified-optimization-toolbox-for-solving-popularity-bias-fairness-and-diversity-in-recommender-systems.pdf)
+-  
+-  
 
 
