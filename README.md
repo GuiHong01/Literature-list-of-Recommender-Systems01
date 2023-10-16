@@ -27,7 +27,7 @@
 - Instructional Strategies Used In Teaching Siswati Language In The Kingdom Of Eswatini Primary Schools [WWW] [(PDF)](https://www.researchgate.net/profile/Sithulisiwe-Bhebhe/publication/368837096_Instructional_Strategies_Used_In_Teaching_Siswati_Language_In_The_Kingdom_Of_Eswatini_Primary_Schools/links/63fcacc70cf1030a5657c565/Instructional-Strategies-Used-In-Teaching-Siswati-Language-In-The-Kingdom-Of-Eswatini-Primary-Schools.pdf)
 - Using Machine Learning Classifiers and A Virtual Voice Assistant for Common Tasks, An Employee Performance Evaluation Model is Used [WWW] [(PDF)](https://www.researchgate.net/profile/Ramesh-Byali/publication/362659843_Using_Machine_Learning_Classifiers_and_A_Virtual_Voice_Assistant_for_Common_Tasks_An_Employee_Performance_Evaluation_Model_is_Used/links/62faefe1ceb9764f72fea4b3/Using-Machine-Learning-Classifiers-and-A-Virtual-Voice-Assistant-for-Common-Tasks-An-Employee-Performance-Evaluation-Model-is-Used.pdf)
 - Mixed-Modality Interaction in Conversational Recommender Systems [RecSys 2021] [(PDF)](http://ceur-ws.org/Vol-2948/paper2.pdf)
-- ConvEx-DS:_A Dataset for Conversational Explanations in Recommender SystemS [RecSys 2021] [(PDF)](https://ceur-ws.org/Vol-2948/paper1.pdf)
+- ConvEx-DS:_A Dataset for Conversational Explanations in Recommender SystemS 会话解释 [RecSys 2021] [(PDF)](https://ceur-ws.org/Vol-2948/paper1.pdf)
 - A general model for fair and explainable recommendation in the loan domain [RecSys 2021] [(PDF)](https://ceur-ws.org/Vol-2960/paper12.pdf)
 - Psychological User Characteristics and Meta-Intents in a Conversational Product Advisor [RecSys 2022] [(PDF)](https://ceur-ws.org/Vol-3222/paper2.pdf)
 - Meta-Intents in Conversational Recommender Systems [RecSys 2022] [(PDF)](https://ceur-ws.org/Vol-3294/long6.pdf)
@@ -39,7 +39,15 @@
 
 
 
-- 推荐系统的公平性问题
+- 二、推荐系统的公平性问题
+- 提出新的模型
+
+- 解释
+
+
+
+
+
 - Explainable fairness in recommendation [SIGIR 2022] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3477495.3531973)
 - Tfrom: A two-sided fairness-aware recommendation model for both customers and providers [SIGIR 2021] [(PDF)](https://arxiv.org/pdf/2104.09024)
 - Selective fairness in recommendation via prompts [SIGIR 2022] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3477495.3531913)
@@ -69,6 +77,8 @@
 -  Psychological User Characteristics and Meta-Intents in a Conversational Product Advisor [RecSys 2022] [(PDF)](https://ceur-ws.org/Vol-3222/paper2.pdf)
 -  Meta-Intents in Conversational Recommender Systems [RecSys 2022] [(PDF)](https://ceur-ws.org/Vol-3294/long6.pdf)
 -  
+-  去偏
+-  It Is Different When Items Are Older: Debiasing Recommendations When Selection Bias and User Preferences are Dynamic [WSDM 2022] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3488560.3498375)
 -  
 
 
