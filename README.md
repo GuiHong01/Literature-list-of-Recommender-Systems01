@@ -71,7 +71,7 @@
 -  A unified optimization toolbox for solving popularity bias, fairness, anddiversity in recommender systems [RecSys 2021] [(PDF)](https://www.researchgate.net/profile/Sinan-Seymen/publication/357875041_A_unified_optimization_toolbox_for_solving_popularity_bias_fairness_and_diversity_in_recommender_systems/links/61e4ce95c5e31033759d91f2/A-unified-optimization-toolbox-for-solving-popularity-bias-fairness-and-diversity-in-recommender-systems.pdf)
 -  Psychological User Characteristics and Meta-Intents in a Conversational Product Advisor [RecSys 2022] [(PDF)](https://ceur-ws.org/Vol-3222/paper2.pdf)
 -  Meta-Intents in Conversational Recommender Systems 会话推荐系统中的元意图 [RecSys 2022] [(PDF)](https://ceur-ws.org/Vol-3294/long6.pdf)
--  Fairness in contextual resource allocation systems: metrics and incompatibility results 上下文资源分配系统的公平性:指标和不兼容性结果 [AAAI 2023] [(PDF)] (https://ojs.aaai.org/index.php/AAAI/article/view/26397/26169)
+-  Fairness in contextual resource allocation systems: metrics and incompatibility results 上下文资源分配系统的公平性:指标和不兼容性结果 [AAAI 2023] [(PDF)](https://ojs.aaai.org/index.php/AAAI/article/view/26397/26169)
 -  
 -  去偏
 -  It Is Different When Items Are Older: Debiasing Recommendations When Selection Bias and User Preferences are Dynamic 选择偏差和用户偏好动态变化时的去偏差推荐 [WSDM 2022] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3488560.3498375)
