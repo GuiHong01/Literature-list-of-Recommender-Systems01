@@ -66,6 +66,8 @@
 -  Toward Benchmarking Group Explanations: Evaluating the Effect of Aggregation Strategies versus Explanation [RecSys 2021] [(PDF)](https://ceur-ws.org/Vol-2955/paper11.pdf)
 -  Coupled or Decoupled Evaluation for Group Recommendation Methods? [RecSys 2021] [(PDF)](https://ceur-ws.org/Vol-2955/paper1.pdf)
 -  A unified optimization toolbox for solving popularity bias, fairness, anddiversity in recommender systems [RecSys 2021] [(PDF)](https://www.researchgate.net/profile/Sinan-Seymen/publication/357875041_A_unified_optimization_toolbox_for_solving_popularity_bias_fairness_and_diversity_in_recommender_systems/links/61e4ce95c5e31033759d91f2/A-unified-optimization-toolbox-for-solving-popularity-bias-fairness-and-diversity-in-recommender-systems.pdf)
+-  Psychological User Characteristics and Meta-Intents in a Conversational Product Advisor [RecSys 2022] [(PDF)](https://ceur-ws.org/Vol-3222/paper2.pdf)
+-  Meta-Intents in Conversational Recommender Systems [RecSys 2022] [(PDF)](https://ceur-ws.org/Vol-3294/long6.pdf)
 -  
 -  
 
