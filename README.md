@@ -26,14 +26,14 @@
 - Weighted Knowledge Graph Embedding [SIGIR 2023] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3539618.3591784)
 - Using Machine Learning Classifiers and A Virtual Voice Assistant for Common Tasks, An Employee Performance Evaluation Model is Used [WWW] [(PDF)](https://www.researchgate.net/profile/Ramesh-Byali/publication/362659843_Using_Machine_Learning_Classifiers_and_A_Virtual_Voice_Assistant_for_Common_Tasks_An_Employee_Performance_Evaluation_Model_is_Used/links/62faefe1ceb9764f72fea4b3/Using-Machine-Learning-Classifiers-and-A-Virtual-Voice-Assistant-for-Common-Tasks-An-Employee-Performance-Evaluation-Model-is-Used.pdf)
 - Mixed-Modality Interaction in Conversational Recommender Systems 会话推荐系统中的混合模态交互作用 [RecSys 2021] [(PDF)](http://ceur-ws.org/Vol-2948/paper2.pdf)
-- ConvEx-DS:_A Dataset for Conversational Explanations in Recommender SystemS 会话解释 [RecSys 2021] [(PDF)](https://ceur-ws.org/Vol-2948/paper1.pdf)
+- ConvEx-DS:_A Dataset for Conversational Explanations in Recommender SystemS 会话解释 [RecSys 2021] [(PDF)](https://ceur-ws.org/Vol-2948/paper1.pdf) [(code)]( https://github.com/intsys-ude/Datasets/tree/main/ConvEx-DS)
 - A general model for fair and explainable recommendation in the loan domain 提出新模型，旨在提供更公平更透明的建议[RecSys 2021] [(PDF)](https://ceur-ws.org/Vol-2960/paper12.pdf)
 - Psychological User Characteristics and Meta-Intents in a Conversational Product Advisor 对话性产品顾问中的心理用户特征和元意图——提出元意图概念 [RecSys 2022] [(PDF)](https://ceur-ws.org/Vol-3222/paper2.pdf)
 - Meta-Intents in Conversational Recommender Systems 提出了一套元意图因素和提出了一个CRS框架 [RecSys 2022] [(PDF)](https://ceur-ws.org/Vol-3294/long6.pdf)
 - TripRec-A Recommender System for Planning Composite City Trips Based on Travel Mobility Analysis 设计并开发了第一个用于个性化、复合城市出行计算的目的地推荐系统 [WSDM] [(PDF)](https://ceur-ws.org/Vol-2855/main_short_2.pdf)
 - Fairness-Aware Graph Sampling for Network Analysis 开发一种方法量度结构板保存性的能力以及提出一种贪婪算法[ICDM 2022] [(PDF)](https://www.cse.msu.edu/~ptan/papers/icdm2022.pdf)
 - Hyper Meta-Path Contrastive Learning for Multi -Behavior Recommendation 提出了超元路径的概念和一个新的框架[ICDM 2021] [(PDF)](https://arxiv.org/pdf/2109.02859.pdf)
-- One Person, One Model—Learning Compound Router for Sequential Recommendation 顺序推荐 [ICDM 2022] [(PDF)](https://arxiv.org/pdf/2211.02824.pdf)
+- One Person, One Model—Learning Compound Router for Sequential Recommendation 顺序推荐 [ICDM 2022] [(PDF)](https://arxiv.org/pdf/2211.02824.pdf) [(code)](https://github.com/Lyken17/pytorch-OpCounter)
 - privacy-Preserved Neural Graph Similarity Learning 相似性学习 [ICDM 2022] [(PDF)](https://www.cse.msu.edu/~ptan/papers/icdm2022.pdf) [(code)](https://github.com/RUCAIBox/PPGM.)
 
 
