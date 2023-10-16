@@ -37,8 +37,7 @@
 - privacy-Preserved Neural Graph Similarity Learning 相似性学习 [ICDM 2022] [(PDF)](https://www.cse.msu.edu/~ptan/papers/icdm2022.pdf) [(code)](https://github.com/RUCAIBox/PPGM.)
 - Cola: Improving conversational recommender systems by collaborative augmentation [AAAI 2023] [(PDF)](https://ojs.aaai.org/index.php/AAAI/article/download/25567/25339) [(code)](https://github.com/DongdingLin/COLA)
 - CP-Rec: contextual prompting for conversational recommender systems 会话推荐系统的上下文提示 [AAAI 2023] [(PDF)](https://ojs.aaai.org/index.php/AAAI/article/view/26487/26259)
-- Efficient explorative key-term selection strategies for conversational contextual bandits 上下文 [AAAI 2023] [(PDF)](https://ojs.aaai.org/index.php/AAAI/article/download/26225/25997) [(code)](https://github.com/ZhiyongWangWzy/
-ConLinUCB)
+- Efficient explorative key-term selection strategies for conversational contextual bandits 上下文 [AAAI 2023] [(PDF)](https://ojs.aaai.org/index.php/AAAI/article/download/26225/25997) [(code)](https://github.com/ZhiyongWangWzy/)
 - Factual and informative review generation for explainable recommendation 面向可解释推荐的事实性和信息性评论生成 [AAAI 2023] [(PDF)](https://ojs.aaai.org/index.php/AAAI/article/view/26618/26390)
 - Reinforced approximate exploratory data analysis [AAAI 2023] [(PDF)](https://ojs.aaai.org/index.php/AAAI/article/view/25929/25701)
 
