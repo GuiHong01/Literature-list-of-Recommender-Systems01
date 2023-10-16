@@ -35,7 +35,12 @@
 - Hyper Meta-Path Contrastive Learning for Multi -Behavior Recommendation 提出了超元路径的概念和一个新的框架[ICDM 2021] [(PDF)](https://arxiv.org/pdf/2109.02859.pdf)
 - One Person, One Model—Learning Compound Router for Sequential Recommendation 顺序推荐 [ICDM 2022] [(PDF)](https://arxiv.org/pdf/2211.02824.pdf) [(code)](https://github.com/Lyken17/pytorch-OpCounter)
 - privacy-Preserved Neural Graph Similarity Learning 相似性学习 [ICDM 2022] [(PDF)](https://www.cse.msu.edu/~ptan/papers/icdm2022.pdf) [(code)](https://github.com/RUCAIBox/PPGM.)
-
+- Cola: Improving conversational recommender systems by collaborative augmentation [AAAI 2023] [(PDF)](https://ojs.aaai.org/index.php/AAAI/article/download/25567/25339) [(code)](https://github.com/DongdingLin/COLA)
+- CP-Rec: contextual prompting for conversational recommender systems 会话推荐系统的上下文提示 [AAAI 2023] [(PDF)](https://ojs.aaai.org/index.php/AAAI/article/view/26487/26259)
+- Efficient explorative key-term selection strategies for conversational contextual bandits 上下文 [AAAI 2023] [(PDF)](https://ojs.aaai.org/index.php/AAAI/article/download/26225/25997) [(code)](https://github.com/ZhiyongWangWzy/
+ConLinUCB)
+- Factual and informative review generation for explainable recommendation 面向可解释推荐的事实性和信息性评论生成 [AAAI 2023] [(PDF)](https://ojs.aaai.org/index.php/AAAI/article/view/26618/26390)
+- Reinforced approximate exploratory data analysis [AAAI 2023] [(PDF)](https://ojs.aaai.org/index.php/AAAI/article/view/25929/25701)
 
 
 - 二、推荐系统的公平性问题
@@ -67,6 +72,7 @@
 -  A unified optimization toolbox for solving popularity bias, fairness, anddiversity in recommender systems [RecSys 2021] [(PDF)](https://www.researchgate.net/profile/Sinan-Seymen/publication/357875041_A_unified_optimization_toolbox_for_solving_popularity_bias_fairness_and_diversity_in_recommender_systems/links/61e4ce95c5e31033759d91f2/A-unified-optimization-toolbox-for-solving-popularity-bias-fairness-and-diversity-in-recommender-systems.pdf)
 -  Psychological User Characteristics and Meta-Intents in a Conversational Product Advisor [RecSys 2022] [(PDF)](https://ceur-ws.org/Vol-3222/paper2.pdf)
 -  Meta-Intents in Conversational Recommender Systems 会话推荐系统中的元意图 [RecSys 2022] [(PDF)](https://ceur-ws.org/Vol-3294/long6.pdf)
+-  Fairness in contextual resource allocation systems: metrics and incompatibility results 上下文资源分配系统的公平性:指标和不兼容性结果 [AAAI 2023] [(PDF)] (https://ojs.aaai.org/index.php/AAAI/article/view/26397/26169)
 -  
 -  去偏
 -  It Is Different When Items Are Older: Debiasing Recommendations When Selection Bias and User Preferences are Dynamic 选择偏差和用户偏好动态变化时的去偏差推荐 [WSDM 2022] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3488560.3498375)
