@@ -33,6 +33,9 @@
 - Meta-Intents in Conversational Recommender Systems [RecSys 2022] [(PDF)](https://ceur-ws.org/Vol-3294/long6.pdf)
 - TripRec-A Recommender System for Planning Composite City Trips Based on Travel Mobility Analysis [WSDM] [(PDF)](https://ceur-ws.org/Vol-2855/main_short_2.pdf)
 - Fairness-Aware Graph Sampling for Network Analysis [ICDM 2022] [(PDF)](https://www.cse.msu.edu/~ptan/papers/icdm2022.pdf)
+- Hyper Meta-Path Contrastive Learning for Multi -Behavior Recommendation [ICDM 2021] [(PDF)](https://arxiv.org/pdf/2109.02859.pdf)
+- One Person, One Model—Learning Compound Router for Sequential Recommendation [ICDM 2022] [(PDF)](https://arxiv.org/pdf/2211.02824.pdf)
+- privacy-Preserved Neural Graph Similarity Learning [ICDM 2022] [(PDF)](https://www.cse.msu.edu/~ptan/papers/icdm2022.pdf)
 
 
 
