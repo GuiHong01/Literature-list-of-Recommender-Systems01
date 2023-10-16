@@ -32,6 +32,7 @@
 - Psychological User Characteristics and Meta-Intents in a Conversational Product Advisor [RecSys 2022] [(PDF)](https://ceur-ws.org/Vol-3222/paper2.pdf)
 - Meta-Intents in Conversational Recommender Systems [RecSys 2022] [(PDF)](https://ceur-ws.org/Vol-3294/long6.pdf)
 - TripRec-A Recommender System for Planning Composite City Trips Based on Travel Mobility Analysis [WSDM] [(PDF)](https://ceur-ws.org/Vol-2855/main_short_2.pdf)
+- Fairness-Aware Graph Sampling for Network Analysis [ICDM 2022] [(PDF)](https://www.cse.msu.edu/~ptan/papers/icdm2022.pdf)
 
 
 
