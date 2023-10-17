@@ -40,6 +40,13 @@
 - Efficient explorative key-term selection strategies for conversational contextual bandits 上下文 [AAAI 2023] [(PDF)](https://ojs.aaai.org/index.php/AAAI/article/download/26225/25997) [(code)](https://github.com/ZhiyongWangWzy/)
 - Factual and informative review generation for explainable recommendation 面向可解释推荐的事实性和信息性评论生成 [AAAI 2023] [(PDF)](https://ojs.aaai.org/index.php/AAAI/article/view/26618/26390)
 - Reinforced approximate exploratory data analysis [AAAI 2023] [(PDF)](https://ojs.aaai.org/index.php/AAAI/article/view/25929/25701)
+- C2-CRS: Coarse-to-Fine Contrastive Learning for Conversational Recommender System 对话式推荐系统的粗到细对比学习 [WSDM 2022] [(PDF)](https://arxiv.org/pdf/2201.02732) [(code)](https://github.com/RUCAIBox/WSDM2022-C2CRS)
+- Large-scale Interactive Conversational Recommendation System 大规模交互式对话推荐系统 [RecSys 2021] [(PDF)](https://people.cs.umass.edu/~pthomas/papers/Montazeralghaem2021.pdf)
+- Soliciting User Preferences in Conversational Recommender Systems via Usage-related Questions LBR，对话推荐系统的偏好启发方法 [RecSys 2021] [(PDF)](https://arxiv.org/pdf/2111.13463)
+- M2TRec: Metadata-aware Multi-task Transformer for Large-scale and Cold-start free Session-based Recommendations LBR，基于元数据和多任务 Transformer 的冷启动会话推荐系统 [RecSys 2022] [(PDF)](https://arxiv.org/pdf/2209.11824)
+- Self-Supervised Bot Play for Transcript-Free Conversational Recommendation with Rationales 自监督对话推荐 [RecSys 2022] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3523227.3546783)
+- Multiple Choice Questions based Multi-Interest Policy Learning for Conversational Recommendation 基于多兴趣的对话推荐策略学习 [WWW 2022] [(PDF)](https://arxiv.org/pdf/2112.11775) [(code)](https://github.com/ZYM6-6/MCMIPL)
+- 
 
 
 - 二、推荐系统的公平性问题
@@ -73,8 +80,31 @@
 -  Meta-Intents in Conversational Recommender Systems 会话推荐系统中的元意图 [RecSys 2022] [(PDF)](https://ceur-ws.org/Vol-3294/long6.pdf)
 -  Fairness in contextual resource allocation systems: metrics and incompatibility results 上下文资源分配系统的公平性:指标和不兼容性结果 [AAAI 2023] [(PDF)](https://ojs.aaai.org/index.php/AAAI/article/view/26397/26169)
 -  
--  去偏
+-  推荐系统的偏见
 -  It Is Different When Items Are Older: Debiasing Recommendations When Selection Bias and User Preferences are Dynamic 选择偏差和用户偏好动态变化时的去偏差推荐 [WSDM 2022] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3488560.3498375)
+-  Learning Personalized Risk Preferences for Recommendation 个性化风险偏好 [SIGIR 2020] [(PDF)](https://arxiv.org/pdf/2007.02478)
+-  Popularity-Opportunity Bias in Collaborative Filtering  协同过滤中的流行机会偏差 [WSDM 2021] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3437963.3441820)
+-  Combating Selection Biases in Recommender Systems with a Few Unbiased Ratings.无偏评级对抗推荐的选择偏差 [WSDM 2021] [(PDF)](https://www.ruizhang.info/publications/WSDM2021_Combating%20Selection%20Biases%20in%20Recommender%20Systems%20with%20A%20Few%20Unbiased%20Ratings.pdf)
+-  Debiasing Career Recommendations with Neural Fair Collaborative Filtering.职业推荐的公平性去偏 [WWW 2021] [(PDF)](https://par.nsf.gov/servlets/purl/10281655)
+-  AutoDebias: Learning to Debias for Recommendation. 推荐的自动去偏 [SIGIR 2021] [(PDF)](https://arxiv.org/pdf/2105.04170) [(code)](https://github.com/DongHande/AutoDebias)
+-  Popcorn: Human-in-the-loop Popularity Debiasing in Conversational Recommender Systems.采用人在回路方式进行对话推荐系统的流行度去偏 [CIKM 2021] [(PDF)](https://par.nsf.gov/servlets/purl/10349112) [(数据集)](https://www.yelp.com/dataset/)
+-  It Is Different When Items Are Older: Debiasing Recommendations When Selection Bias and User Preferences are Dynamic. 选择偏差和偏好偏差动态变化时的纠偏推荐系统 [WSDM 2022] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3488560.3498375)
+-  Fighting Mainstream Bias in Recommender Systems via Local Fine Tuning.通过局部微调对抗推荐系统中的主流偏见 [WSDM 2022] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3488560.3498427)
+-  Quantifying and Mitigating Popularity Bias in Conversational Recommender Systems. 量化和减轻会话推荐系统中的流行度偏差 [CIKM 2022] [(PDF)](https://arxiv.org/pdf/2208.03298)
+-  Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System.不可知反事实推理模型消除推荐系统的流行偏差 [KDD 2021](https://arxiv.org/pdf/2010.15363)
+-  Bilateral Self-unbiased Recommender Learning from Biased Implicit Feedback.双边去偏 [SIGIR 2022] [(PDF)](https://arxiv.org/pdf/2207.12660)
+-  Neutralizing Popularity Bias in Recommendation Models. short paper，中和流行度偏差 [SIGIR 2022] [(PDF)](https://xmudm.github.io/files/Xv2022Neutralizing.pdf) [(code)](https://github.com/XMUDM/NeutralizingBias)
+-  User Bias in Beyond-Accuracy Measurement of Recommendation Algorithms. 超精度测量中的算法用户偏差 [RecSys 2021] [(PDF)](http://www.comp.hkbu.edu.hk/~lichen/download/Ningxia_RecSys21.pdf) [(code)](https://github.com/greenblue96/Taobao-Serendipity-Dataset)
+-  Analyzing Item Popularity Bias of Music Recommender Systems: Are Different Genders Equally Affected?. LBR，音乐推荐物品流行度偏差的性别分析 [RecSys 2021] [(PDF)](https://arxiv.org/pdf/2108.06973)
+-  The Idiosyncratic Effects of Adversarial Training on Bias in Personalized Recommendation Learning. LBR，对抗训练对流行度偏差的影响研究 [RecSys 2021] [(PDF)](https://www.researchgate.net/profile/FeliceMerra/publication/353841525_The_Idiosyncratic_Effects_of_Adversarial_Training_on_Bias_in_Personalized_Recommendation_Learning/links/6114eca51ca20f6f8617ac6e/The-Idiosyncratic-Effects-of-Adversarial-Training-on-Bias-in-Personalized-Recommendation-Learning.pdf) [(code)](https://github.com/sisinflab/The-Idiosyncratic-Effects-of-Adversarial-Training)
+-  Transfer Learning in Collaborative Recommendation for Bias Reduction. LBR，减少偏差的迁移学习 [RecSys 2021] [(PDF)](https://m.el-museum.com/csse/staff/panwk/publications/Conference-RecSys-21-TJR-Slides.pdf)
+-  Exploring the Impact of Temporal Bias in Point-of-Interest Recommendation. LBR，时间偏差对兴趣点推荐的影响 [RecSys 2022] [(PDF)](https://arxiv.org/pdf/2207.11609) [(code)](https://github.com/rahmanidashti/ContextsFair)
+-  CBR: Context Bias aware Recommendation for Debiasing User Modeling and Click Prediction. 去除由丰富交互造成的上下文偏差 [WWW 2022] [(PDF)](https://scholar.archive.org/work/4viec6qqzvddvmm5m4dt52bxme/access/wayback/https://dl.acm.org/doi/pdf/10.1145/3485447.3512099)
+-  
+-  
+-  
+-  
+
 -  
 
 
