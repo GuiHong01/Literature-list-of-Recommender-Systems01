@@ -1,6 +1,6 @@
 # Literature-list-of-Recommender-Systems01
 近几年有关大语言模型推荐系统、会话推荐系统以及公平性相关的文献
-# Conversation Recommender  会话推荐系统
+# 一、Conversation Recommender  会话推荐系统
 - Unified conversational recommendation policy learning via graph-based reinforcement learning 通过基于图的强化学习进行统一的对话推荐策略学习 [SIGIR 2021] [(PDF)](https://arxiv.org/pdf/2105.09710.pdf)
 - Learning to ask appropriate questions in conversational recommendation 对会话推荐系统进行了重新定义，提出了一种基于KG的会话推荐系统KBQG [SIGIR 2021] [(PDF)](https://arxiv.org/pdf/2105.04774.pdf)
 - Improving conversational recommender systems via transformer-based sequential modelling 提出了一种基于变压器的序列会话推荐方法TSCR [SIGIR 2022] [(PDF)](https://personal.ntu.edu.sg/c.long/paper/22-SIGIR-conversation.pdf)
@@ -46,7 +46,7 @@
 - M2TRec: Metadata-aware Multi-task Transformer for Large-scale and Cold-start free Session-based Recommendations LBR，基于元数据和多任务 Transformer 的冷启动会话推荐系统 [RecSys 2022] [(PDF)](https://arxiv.org/pdf/2209.11824)
 - Self-Supervised Bot Play for Transcript-Free Conversational Recommendation with Rationales 自监督对话推荐 [RecSys 2022] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3523227.3546783)
 - Multiple Choice Questions based Multi-Interest Policy Learning for Conversational Recommendation 基于多兴趣的对话推荐策略学习 [WWW 2022] [(PDF)](https://arxiv.org/pdf/2112.11775) [(code)](https://github.com/ZYM6-6/MCMIPL)
-- 
+
 
 
 - 二、推荐系统的公平性问题
@@ -79,8 +79,15 @@
 -  Psychological User Characteristics and Meta-Intents in a Conversational Product Advisor [RecSys 2022] [(PDF)](https://ceur-ws.org/Vol-3222/paper2.pdf)
 -  Meta-Intents in Conversational Recommender Systems 会话推荐系统中的元意图 [RecSys 2022] [(PDF)](https://ceur-ws.org/Vol-3294/long6.pdf)
 -  Fairness in contextual resource allocation systems: metrics and incompatibility results 上下文资源分配系统的公平性:指标和不兼容性结果 [AAAI 2023] [(PDF)](https://ojs.aaai.org/index.php/AAAI/article/view/26397/26169)
+-  Fairness-Aware News Recommendation with Decomposed Adversarial Learning. 基于分解对抗学习的公平新闻推荐 [AAAI 2021] [(PDF)](https://ojs.aaai.org/index.php/AAAI/article/download/16573/16380)
+-  ractical Compositional Fairness Understanding Fairness in Multi-Component Recommender Systems. 多组件推荐中的公平性 [WSDM 2021] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3437963.3441732)
+-  Towards Long-term Fairness in Recommendation. 推荐中的长期公平性 [WSDM 2021] [(PDF)](https://arxiv.org/pdf/2101.03584)
+-  Comprehensive Fair Meta-learned Recommender System. 元学习公平性框架 [KDD 2022] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3534678.3539269)
+-  Selective Fairness in Recommendation via Prompts. short paper，通过提示保证可选的公平性 [SIGIR 2022] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3477495.3531913) [(code)](https://github.com/wyqing20/PFRec)
+-  Adversary or Friend? An adversarial Approach to Improving Recommender Systems. 对抗式方法促进推荐系统公平性 [RecSys 2022] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3523227.3546784)
+
 -  
--  推荐系统的偏见
+-  三、推荐系统的去偏
 -  It Is Different When Items Are Older: Debiasing Recommendations When Selection Bias and User Preferences are Dynamic 选择偏差和用户偏好动态变化时的去偏差推荐 [WSDM 2022] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3488560.3498375)
 -  Learning Personalized Risk Preferences for Recommendation 个性化风险偏好 [SIGIR 2020] [(PDF)](https://arxiv.org/pdf/2007.02478)
 -  Popularity-Opportunity Bias in Collaborative Filtering  协同过滤中的流行机会偏差 [WSDM 2021] [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3437963.3441820)
@@ -100,11 +107,6 @@
 -  Transfer Learning in Collaborative Recommendation for Bias Reduction. LBR，减少偏差的迁移学习 [RecSys 2021] [(PDF)](https://m.el-museum.com/csse/staff/panwk/publications/Conference-RecSys-21-TJR-Slides.pdf)
 -  Exploring the Impact of Temporal Bias in Point-of-Interest Recommendation. LBR，时间偏差对兴趣点推荐的影响 [RecSys 2022] [(PDF)](https://arxiv.org/pdf/2207.11609) [(code)](https://github.com/rahmanidashti/ContextsFair)
 -  CBR: Context Bias aware Recommendation for Debiasing User Modeling and Click Prediction. 去除由丰富交互造成的上下文偏差 [WWW 2022] [(PDF)](https://scholar.archive.org/work/4viec6qqzvddvmm5m4dt52bxme/access/wayback/https://dl.acm.org/doi/pdf/10.1145/3485447.3512099)
--  
--  
--  
--  
-
 -  
 
 
